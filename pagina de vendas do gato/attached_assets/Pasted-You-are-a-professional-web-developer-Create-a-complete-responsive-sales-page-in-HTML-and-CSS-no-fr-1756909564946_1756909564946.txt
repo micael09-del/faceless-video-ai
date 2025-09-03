@@ -1,0 +1,51 @@
+You are a professional web developer. Create a complete responsive sales page in HTML and CSS (no frameworks, clean code). The design must use the color palette: dark blue (#0A0F2C), purple (#6A0DAD), and black (#000000).
+
+The sales page structure must include:
+
+1. HEADER (Hero Section)
+- Big headline with a clear CTA encouraging immediate action.
+- Subheadline reinforcing the promise of the product.
+- A “Buy Now” button linked to: https://pay.kiwify.com/0FtTjLR
+- Space to embed a VSL (I will upload the video file later; put a placeholder <video> tag ready to replace with my VSL).
+
+2. PRODUCT OFFER
+- Show old price $79 with strikethrough.
+- Show special offer price: $5.97 in bold and big font.
+- Highlight urgency with a “Limited Time Only” label.
+
+3. BENEFITS SECTION
+- Bullet points with clear benefits of the product.
+- Add simple icons (FontAwesome or placeholders).
+
+4. SOCIAL PROOF SECTION
+- Show 4 testimonials, each with:
+  - Profile picture (placeholder images for now).
+  - Name.
+  - Short, realistic feedback text.
+- Layout like real reviews (cards).
+
+5. RESULTS SECTION
+- Add images (placeholders) representing people showing earnings or success.
+- Add captions like “Real results from our users”.
+- Add trust text: “Thousands already using this method”.
+
+6. MULTIPLE CTAs
+- Repeat “Buy Now” buttons across the page.
+- ALL buttons must link to: https://pay.kiwify.com/0FtTjLR
+- Buttons must stand out with purple gradient and rounded edges.
+
+7. FOOTER
+- Guarantee badge or text: “7-Day Money Back Guarantee”.
+- Placeholder contact email.
+- Final CTA encouraging immediate purchase.
+
+STYLE:
+- Use bold, clean typography.
+- Buttons with hover effect.
+- Rounded corners.
+- Keep consistent with dark blue, purple, and black.
+- Mobile responsive with media queries.
+
+IMPORTANT:
+- Do not leave empty sections. Fill all with realistic placeholder content.
+- Place <video controls autoplay muted loop> in hero section for VSL, I will replace with my video file.
